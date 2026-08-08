@@ -1,0 +1,20 @@
+# ========== Grok 网页端 ==========
+DOMAIN,grok.com
+DOMAIN,www.grok.com
+DOMAIN-SUFFIX,grok.com
+
+# ========== xAI 开发者/账号体系 ==========
+DOMAIN-SUFFIX,x.ai
+DOMAIN,api.x.ai
+DOMAIN,console.x.ai
+DOMAIN,docs.x.ai
+DOMAIN,auth.x.ai
+
+# ========== X(Twitter) 内嵌 Grok 依赖（可选，登录/头像/短链）==========
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+
+# ========== 前端资源 CDN（Cloudflare Workers 等，按需）==========
+DOMAIN-SUFFIX,workers.dev
